@@ -1,4 +1,4 @@
-google.com, pub-1444582278306391, DIRECT, f08c47fec0942fa0
+google.com, pub-8990322149187101, DIRECT, f08c47fec0942fa0
 
 lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
 media.net, 8cuh46n56, RESELLER
